@@ -37,4 +37,4 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://www.google.com/search?q=python+logo+png&sxsrf=ALeKk03dJXevt7DfGsMGaX6qulUBHknFkw:1606429414499&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj0ge70n6HtAhXac30KHfUmBp0Q_AUoAXoECAUQAw&biw=1390&bih=835#imgrc=ZlaIuw2nTjGseM" />
+<img align="left" alt="Python" width="26px" src="https://ibb.co/gDct9Mt" />
