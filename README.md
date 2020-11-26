@@ -5,7 +5,7 @@
 
 -->
 
-## I am enthusiastic to learn new things , Programmer , Teacher , Friend . . . 
+## I am enthusiastic to learn new things (GAKUSEI) (がくせい) . . . .
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
