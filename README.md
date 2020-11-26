@@ -28,16 +28,15 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/marzan-666/marzan-666/blob/main/python.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/android.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/c.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/c%2B%2B.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/js.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/html.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/mysql.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/html.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=24 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=24 />
-
+<img src="https://github.com/marzan-666/marzan-666/blob/main/python.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/android.png" width=24 />|
+<img src="https://github.com/marzan-666/marzan-666/blob/main/c.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/c%2B%2B.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/js.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/html.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=24 /> | 
+<img src="https://github.com/marzan-666/marzan-666/blob/main/mysql.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/html.png" width=24 /> |
+<img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=24 />|
+<img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=24 /> | 
