@@ -37,6 +37,4 @@
 <img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=24 /> |
 <img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=24 /> | 
 <img src="https://github.com/marzan-666/marzan-666/blob/main/mysql.png" width=24 /> |
-<img src="https://github.com/marzan-666/marzan-666/blob/main/html.png" width=24 /> |
-<img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=24 />|
-<img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=24 /> | 
+|:---:|:---:|:---:||:---:|:---:|:---:||:---:|:---:|:---:| 
