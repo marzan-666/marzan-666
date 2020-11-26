@@ -5,13 +5,13 @@
 
 -->
 
-## I am enthusiastic to learn new things (GAKUSEI) (がくせい) . . . .
+## I am enthusiastic to learn new things *(GAKUSEI)* *(がくせい)* . . . .
 
 - 🔭 Interested in *Artificial Intelligence*.
 - 🌱 I have been learning  *Mathematics* , *Psychology* , *Mythology*, & *Philosophy* for years. . .
 - 🎓 Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/).
 - 🥅 2020 Goals : Contribute more to Open Source projects
-- ⚡ Fun facts : I love to watch movies , play cricket , read books. .. 
+- ⚡ Fun facts : I love to watch movies , play cricket & read books. .. 
 
 
 ### Connect with me:
