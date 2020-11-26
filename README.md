@@ -5,7 +5,7 @@
 
 -->
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I am enthusiastic to learn new things , Programmer , Teacher , Friend . . . 
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
