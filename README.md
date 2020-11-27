@@ -32,7 +32,7 @@
   <summary>My Github Stats</summary>
   <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marzan-666&&show_icons=true&title_color=c095e3&icon_color=95dfe3&text_color=ffffff&bg_color=231f2" alt="marzan666's Github Stats" alt="marzan666's Github Status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marzan-666&&show_icons=true&title_color=c095e3&icon_color=95dfe3&text_color=ffffff&bg_color=231f20" alt="marzan666's Github Stats" alt="marzan666's Github Status" />
 </p>
 
 
