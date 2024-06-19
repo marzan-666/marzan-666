@@ -10,8 +10,8 @@
 
 - 🔭 Interested in *Artificial Intelligence*. . .
 - 🌱 I have been learning  *Mathematics* , *Psychology* , *Mythology*, & *Philosophy* for years. . .
-- 🎓 Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/).
-- 🥅 2020 Goals : Contribute more to Open Source projects. . . 
+- 🎓 Pursuing Master's Degree in IT at [Washington University of Science and Technology](https://www.wust.edu/).
+- 🥅 2024 Goals : Contribute more to Open Source projects. . . 
 - ⚡ Fun facts : I love to *watch movies*, *play cricket* & *read books* . . . 
 
 
