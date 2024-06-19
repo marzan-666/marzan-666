@@ -16,7 +16,7 @@
 
 
 ### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/mohammad-marzan-9b54b01ba/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/marzan666/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:marzan666@gmail.com?subject=From%20GitHub&cc=marjan.md@northsouth.edu&body=Howdy!,%20Contacting%20from%20GitHub)
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=222244&labelColor=000000&logo=instagram&logoColor=ffffff)](https://www.instagram.com/marzan666/)
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/marzan666)
