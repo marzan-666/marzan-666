@@ -12,7 +12,7 @@
 - 🌱 I have been learning  *Mathematics* , *Psychology* , *Mythology*, & *Philosophy* for years. . .
 - 🎓 Pursuing Master's Degree in IT at [Washington University of Science and Technology](https://www.wust.edu/).
 - 🥅 2025 Goals : Contribute more to Open Source projects. . . 
-- ⚡ Fun facts : I love to *watch movies*, *play cricket* & *read books* . . . 
+- ⚡ Fun facts : I love to *watch movies*, *travel* & *read books* . . . 
 
 
 ### Connect with me:
