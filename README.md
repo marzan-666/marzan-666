@@ -8,9 +8,10 @@
 
 ## I am enthusiastic to learn new things *(GAKUSEI)* *(がくせい)* . . . .
 
-- 🔭 Interested in *Artificial Intelligence*. . .
-- 🌱 I have been learning  *Mathematics* , *Psychology* , *Mythology*, & *Philosophy* for years. . .
-- 🎓 Pursuing Master's Degree in IT at [Washington University of Science and Technology](https://www.wust.edu/).
+- 🔭 Interested in *Artificial Intelligence* and *Machine Learning*. . .
+- 🌱 I have been learning  *Programming* ,*Mathematics* , *Psychology* , *Mythology*, & *Philosophy* for years. . .
+- 🎓 Pursued Bachelor's Degree in CSE at [North South University](https://www.northsouth.edu/).
+- 🎓 Pursued Master's Degree in IT at [Washington University of Science and Technology](https://www.wust.edu/).
 - 🥅 2025 Goals : Contribute more to Open Source projects. . . 
 - ⚡ Fun facts : I love to *watch movies*, *travel* & *read books* . . . 
 
