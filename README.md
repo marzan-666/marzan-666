@@ -25,7 +25,7 @@
 
 <br /> 
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 <img src="https://github.com/marzan-666/marzan-666/blob/main/python.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/android.png" width=32 /><img src="https://github.com/marzan-666/marzan-666/blob/main/c.png" width=32 /> <img src = "https://github.com/marzan-666/marzan-666/blob/main/java.jpg" width = 32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/c%2B%2B.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/js.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/html.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/mysql.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/bootstrap.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/laravel.jpg" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/vscode.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/Android%20Studio.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/codeblocks.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/sublime.jpg" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/notepad.png" width=32 /> <img src="https://github.com/marzan-666/marzan-666/blob/main/netbeans.jpg" width=32 />
 
